@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erdembehic
 - 👀 I’m interested in coding, FPGA, embedded systems and autonomous systems
-- 🌱 I’m currently learning ROS and advance FPGA, java
+- 🌱 I’m currently learning ROS and advance FPGA, linux projects
 - 💞️ I’m looking to collaborate on different kind of projects about the topics that I wrote above.
 - 📫 How to reach me mailto:erdembe17@itu.edu.tr
 
